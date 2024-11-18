@@ -19,7 +19,6 @@ A responsive and modern website built with **Bootstrap 5**, designed to showcase
 ---
 
 ## **Live Preview**  
-[Check out the site here!](https://vteks-preview.vercel.app/)  
-*(Replace `#` with the live demo URL)*  
+[Check out the site here!](https://vteks-preview.vercel.app/) 
 
 ---
