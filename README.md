@@ -1,4 +1,4 @@
-# **Vteks Bootstrap 5 Site**  
+# **Vteks Site**  
 A responsive and modern website built with **Bootstrap 5**, designed to showcase sleek UI components and a seamless user experience.  
 
 ---
