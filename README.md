@@ -15,7 +15,6 @@ A responsive and modern website built with **Bootstrap 5**, designed to showcase
 - **CSS3**  
 - **Bootstrap 5**  
 - **JavaScript**
-- **Jquery**
 
 ---
 
